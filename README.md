@@ -1,5 +1,5 @@
 # pepperMorioNsi
-Mauvaise copie de Super Paper Mario sur Wii mais en python
+copie de Super Paper Mario sur Wii mais en python
 
 L'objectif était sur un projet libre d'utiliser la programmation orientée objet du python, j'ai donc choisi de refaire la mécanique de changement de dimension (2d/3d)
 de Super Paper Mario sur wii, ça aura été très intéréssant de réfléchir à comment ces mécaniques ont été ajoutées et me permettre de mieux apprendre à structurer
